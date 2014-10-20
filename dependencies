@@ -1,1 +1,1 @@
-part: 'pq-gcc', branch: '4.9.1'
+part: 'pq-gcc', url: 'https://github.com/onslauth/pq-gcc-static', branch: '4.9.1'
